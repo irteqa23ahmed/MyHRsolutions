@@ -1,4 +1,5 @@
 # Complexity of Python Operations
+https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt
 
 
 In this lecture we will learn the complexity classes of various operations on
